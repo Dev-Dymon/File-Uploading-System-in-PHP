@@ -1,0 +1,4 @@
+This is a file uploading system for file with this extensions,
+jpg, jpeg, png, gif, rar, zip, mp3, mp4, pdf, svg, avif
+
+You can edit the PHP script to accept more files with larger sizes
